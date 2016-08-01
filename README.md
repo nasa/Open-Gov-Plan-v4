@@ -40,7 +40,7 @@ For this report, our team took a look at each of the previous reports to provide
 
 ## NASA Organization
 
-![image alt text](./image_0.jpg)
+![image alt text](./image00.jpg)
 
 ## Cross-cutting Objectives and Performance Goals [1.0 (10); 2.0 (18)]
 
