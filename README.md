@@ -32,19 +32,19 @@ Sec. 203. (a) The Administration, in order to carry out the purpose of this Act,
 
 "Achieving a more open government will require the various professional disciplines within the Government-such as policy, legal, procurement, finance, and technology operations-to work together to define and to develop open government solutions." [citation -- 2010 report, page…]
 
-NASA’s Open Government Initiative has matured, evolved, and adapted to shifting priorities in leadership from the White House, Office of Management and Budget, and NASA executives. The original tenets have not changed; however, the application of open government principles -- participation, transparency, and openness -- is an interpretation of priorities through the lens of leadership. 
+NASA’s Open Government Initiative has matured, evolved, and adapted to shifting priorities in leadership from the White House, Office of Management and Budget, and NASA executives. The original tenets have not changed; however, the application of open government principles -- participation, transparency, and openness -- is an interpretation of priorities through the lens of leadership.
 
 Over the last six years from the Open Gov Plan 1.0 to today with Open Gov Plan 4.0, NASA Chief Information Officer (CIO) has changed three times and the leadership of the Open Government initiative shifted from joint representation by the Chief Financial Officer (CFO) and CIO to sole ownership by the CIO. The CFO who originally signed the first report left the agency, as well as the two of the three CIO’s. The Open Government Initiative has been shepherded by three different teams, each bringing a unique perspective to how open government should be managed and implemented. In addition, the White House leadership of the Open Government effort has changed hands and shifted priorities. Each report reflects the guidance provided to federal agencies by the White House, as well as the progress and priorities reflected by the NASA teams.
 
-For this report, our team took a look at each of the previous reports to provide an analysis of what we said we would do, and what we actually accomplished. 
+For this report, our team took a look at each of the previous reports to provide an analysis of what we said we would do, and what we actually accomplished.
 
-## NASA Organization 
+## NASA Organization
 
-![image alt text](image_0.jpg)
+![image alt text](./image_0.jpg)
 
 ## Cross-cutting Objectives and Performance Goals [1.0 (10); 2.0 (18)]
 
-1. Increase Agency transparency and accountability to external stakeholders (open.nasa.gov) 
+1. Increase Agency transparency and accountability to external stakeholders (open.nasa.gov)
 
 2. Enable citizen participation in NASA missions (prizes and challenges, citizen science, 4.0 NASA Solve website, NASA socials, data.nasa.gov, api.nasa.gov, code.nasa.gov)
 
@@ -56,7 +56,7 @@ For this report, our team took a look at each of the previous reports to provide
 
 2.	Cube Quest Challenge [TECHNOLOGY DEMONSTRATION AND HARDWARE]   
 
-3. Disruption Tolerant Networking Challenge Series [SOFTWARE AND APPS] 
+3. Disruption Tolerant Networking Challenge Series [SOFTWARE AND APPS]
 
 4. Earth Science Climate Resilience [SOFTWARE AND APPS]                                              	
 
@@ -64,7 +64,7 @@ For this report, our team took a look at each of the previous reports to provide
 
 6.	Micro-Purchase Pilot Project Challenges [PILOT PROJECT]                              	
 
-7.	Future Engineers 3D Space Design Challenges [CREATIVE (DESIGN & MULTIMEDIA)] 
+7.	Future Engineers 3D Space Design Challenges [CREATIVE (DESIGN & MULTIMEDIA)]
 
 8.	Galactic Cosmic Ray Theoretical Challenge [TECHNOLOGY DEMONSTRATION AND HARDWARE] 	
 
@@ -78,7 +78,7 @@ For this report, our team took a look at each of the previous reports to provide
 
 14. NASA Student Launch [ALGORITHM]                                                                                                   
 
-16. Planetary Data Systems Storyboard Challenge [SOFTWARE AND APPS] 
+16. Planetary Data Systems Storyboard Challenge [SOFTWARE AND APPS]
 
 17. Quest for Quakes [ANALYTICS, VISUALIZATION AND ALGORITHM]                       
 
@@ -90,13 +90,13 @@ For this report, our team took a look at each of the previous reports to provide
 
 21. International Space Apps Challenge [SOFTWARE APPLICATION]                    
 
-3. Improve internal NASA collaboration and innovation 
+3. Improve internal NASA collaboration and innovation
 
     3. Prize Community of Practice (PCOP)
 
     4. (4.0 Dava Newman’s Innovation initiative, code sharing effort both federated and hosted/centralized approach)
 
-4. Encourage partnerships that can create economic opportunity 
+4. Encourage partnerships that can create economic opportunity
 
 Space Act Agreements + Office of Communications partnership office
 
@@ -110,7 +110,7 @@ Space Act Agreements + Office of Communications partnership office
 
     8. NPD -- adding challenges & prizes
 
-OMB Memo M-16-16, dated July 14, 2016, recommends the following plan components, which have all been highlighted in previous Open Gov plans. Each is an ongoing effort or activity within NASA that builds on the experience and effort expended by NASA teams committed to openness, participation, and transparency principles. 
+OMB Memo M-16-16, dated July 14, 2016, recommends the following plan components, which have all been highlighted in previous Open Gov plans. Each is an ongoing effort or activity within NASA that builds on the experience and effort expended by NASA teams committed to openness, participation, and transparency principles.
 
 New and Expanded Initiatives:
 
@@ -152,7 +152,7 @@ Ongoing Initiatives
 
 9. Flagship Initiatives
 
-## Open Gov Activities Matrix 
+## Open Gov Activities Matrix
 
 For the Open Gov plan 4.0, NASA collected all the activities highlighted in previous reports and provided a matrix view for easy tracking by civic organizations. Over the years, activities changed names and shifted due to leadership priorities. Some continue today with little change to the function and focus, while others were completed, closed out, or merged with similar activities. The nuance between a completed and closed activity, is that leadership may determine a project is closed prior to completion due to budget constraints, personnel changes, or shifting mission priorities. Some activities grew and spun off new activities.
 
@@ -216,7 +216,7 @@ http://socialforms.nasa.gov/foia</td>
     <td>29</td>
     <td>Congressional requests
 NPD 1450.4G</td>
-    <td>NASA’s Office of Legislative and Intergovernmental Affairs (OLIA) manages all Congressional requests for information about NASA. Based on the request, staff within the office use a collaborative approach to draft responses. A cross-cutting team involving multiple levels and organizations spread across the entire agency reviews these responses, as appropriate. 
+    <td>NASA’s Office of Legislative and Intergovernmental Affairs (OLIA) manages all Congressional requests for information about NASA. Based on the request, staff within the office use a collaborative approach to draft responses. A cross-cutting team involving multiple levels and organizations spread across the entire agency reviews these responses, as appropriate.
 
 NASA Policy Document (NPD) 1450.4G Handling Congressional Correspondence and Information Concerning Congressional Activities
 http://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_004G_&page_name=main
@@ -298,7 +298,7 @@ NASA Records Management Program Requirements
 
 NRRS 1441.1, NASA Records Retention Schedules
 </td>
-    <td>NASA records document the Agency’s business: organizations, policies, decisions, achievements, and operations -- in the form of paper, audio/visual, micrographics, and electronic media. 
+    <td>NASA records document the Agency’s business: organizations, policies, decisions, achievements, and operations -- in the form of paper, audio/visual, micrographics, and electronic media.
 
 The objectives of NASA records management are to: make current and inactive records available for public use, preserve signicant records for future engineers and our Nation’s history, and legally dispose of all others.
 
@@ -327,7 +327,7 @@ http://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1441_001E_&page_name
   </tr>
   <tr>
     <td>4.0
- 
+
 </td>
     <td>M-16-16
 5(C)</td>
@@ -504,7 +504,7 @@ USAspending.gov -- see Financial Transparency/Spending Information</td>
     <td>Financial
 Transparency,
 Spending Info, [See Transparency Initiatives]</td>
-    <td>“The Office of the Chief Financial Officer, established in accordance with the Chief Financial Officers Act of 1990 (Public Law 101-576), provides leadership for the planning, analysis, justification, control, and reporting of all Agency fiscal resources; oversees all financial management activities related to the programs and operations of the Agency.” Other relevant legislation: Government performance and Results Act (GPRA) of 1993, Federal Funding Accountability and Transparency Act (FFATA) of 2006, and the American Reinvestment and Recovery Act of 2009. 
+    <td>“The Office of the Chief Financial Officer, established in accordance with the Chief Financial Officers Act of 1990 (Public Law 101-576), provides leadership for the planning, analysis, justification, control, and reporting of all Agency fiscal resources; oversees all financial management activities related to the programs and operations of the Agency.” Other relevant legislation: Government performance and Results Act (GPRA) of 1993, Federal Funding Accountability and Transparency Act (FFATA) of 2006, and the American Reinvestment and Recovery Act of 2009.
 Data about spending for NASA contracts, grants, loans, and other financial assistance is available at https://www.usaspending.gov/Pages/AdvancedSearch.aspx?k=nasa
 </td>
     <td>x</td>
@@ -571,7 +571,7 @@ Science data and information policy: http://science.nasa.gov/earth-science/earth
     <td>Office of the Chief Information Officer (OCIO)</td>
     <td>The OCIO provides “information infrastructure and tools that adapt and evolve to support management, science, research, and technology programs,” and adheres to the E-Government Act of 2002 (Public Law 107-347) which seeks to “increase opportunities for citizen participation, promote interagency collaboration, improve efficiency and effectiveness, reduce costs, promote better informed decision-making, promote access to high quality information and make the government more transparent and accountable.”
 
-Complete: OCIO instituted the Chief Technology Officer for Information Technology at Headquarters and at each of the ten NASA Centers. 
+Complete: OCIO instituted the Chief Technology Officer for Information Technology at Headquarters and at each of the ten NASA Centers.
 
 Citizens can track NASA’s IT spending on contracts and grants: https://www.usaspending.gov/Pages/AdvancedSearch.aspx?k=It%2C%20nasa
 </td>
@@ -637,9 +637,9 @@ In earlier Plans, NASA committed to enhance opportunities for coordinated Big Da
     <td>2.0</td>
     <td>27</td>
     <td>Open Source Software</td>
-    <td>In the 2.0 and 3.0 Plans, NASA 
+    <td>In the 2.0 and 3.0 Plans, NASA
 Goal: Increase the number of organizations contributing to code.nasa.gov. To date, NASA added 252 code repositories to the inventory through cooperation with missions and project contributors.
-Goal: Implement a public and private collaborative code repository. 
+Goal: Implement a public and private collaborative code repository.
 
 To date, NASA continues work on the project and has received support and funding from the Office of Chief Engineer to develop a working platform for code-sharing.
 </td>
@@ -828,7 +828,7 @@ Leadership in Office of Education leadership has changed several times. The orga
     <td>16</td>
     <td>Proactive Disclosures/
 Publications </td>
-    <td>NASA has always and will continue to proactively release its non-sensitive scientific data for the benefit of general public. This not only increases the level of transparency and accountability, but also improves the timely sharing of the data for the better science and technology. 
+    <td>NASA has always and will continue to proactively release its non-sensitive scientific data for the benefit of general public. This not only increases the level of transparency and accountability, but also improves the timely sharing of the data for the better science and technology.
 Examples:  Scientific and Technical Information (STI) Program and the Electronic FOIA Library.</td>
     <td></td>
     <td>x</td>
@@ -901,7 +901,7 @@ http://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PD_1382_017J_&page_name
     <td>3.0</td>
     <td>18</td>
     <td>Whistleblower Protection</td>
-    <td>Federal Law prohibits NASA manager from retaliating against employees who provide information they reasonably believe evidences: a violation of any law, rule, or regulation; gross mismanagement;  a gross waste of funds; an abuse of authority; or a substantial and specific danger to public health and safety. 
+    <td>Federal Law prohibits NASA manager from retaliating against employees who provide information they reasonably believe evidences: a violation of any law, rule, or regulation; gross mismanagement;  a gross waste of funds; an abuse of authority; or a substantial and specific danger to public health and safety.
 
 Questions about whistleblower rights and remedies are directed to Frank LaRocca, the NASA Whistleblower Protection Ombudsman at 202.358.2575 or HQ-OIG-Counsel@mail.nasa.gov
 
@@ -925,7 +925,7 @@ Whistleblower Protection Ombudsman site. </td>
 </table>
 
 
-	
+
 
 ## Open Gov Flagship Matrix
 
@@ -1027,7 +1027,7 @@ This effort continues as websites and tools are migrated to cloud services and c
 </table>
 
 
-## Plan 4.0 Effect of Open Gov 
+## Plan 4.0 Effect of Open Gov
 
 What’s new since the last report:
 
@@ -1051,7 +1051,7 @@ What’s new since the last report:
 
 	NASA Datanauts
 
-4.0 Citizen Engagement in Missions -- NASA Solve, Citizen Science Working Group 
+4.0 Citizen Engagement in Missions -- NASA Solve, Citizen Science Working Group
 
 4.0 Federally Funded Research Data Initiative (new report, guidelines, pubmed)
 
@@ -1073,9 +1073,8 @@ Future work?
 
         * Phase II: development, demonstration, and delivery of the innovation. Contracts last 24 months with a maximum funding of $750,000.
 
-        * Phase III: commercialization of innovative technologies, products, and services resulting from Phase I or II. 
+        * Phase III: commercialization of innovative technologies, products, and services resulting from Phase I or II.
 
- 
 
-Conclusion	
 
+Conclusion
