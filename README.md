@@ -12,6 +12,7 @@ From 2010 to date, NASA’s Open Government Initiative has matured, evolved, and
 - NASA Organizational Structure
 ![NASA Organizational Chart](image00.jpg "NASA Org Chart")
 - Cross-cutting Objectives
+
 The first two Open Gov Plans cite the following five cross-cutting objectives, which still apply:
   1. Increase Agency transparency and accountability to external stakeholders,
   2. Enable citizen participation in NASA missions (prizes and challenges, citizen science),                
@@ -20,6 +21,7 @@ The first two Open Gov Plans cite the following five cross-cutting objectives, w
   5. Institutionalize Open Gov philosophies and practices at NASA.
 
 - What’s New
+
 Since the last Open Gov Plan in 2014, we’ve made significant progress enriching and enhancing the foundations laid by previous Plans. Though some of these activities listed in this section are not new, we’ve added new capabilities and capacities to continue this good work, as we move forward into the next two years. Here is a top-level look at projects we love. And by the participant response we’ve seen so far, you love them to.  This is your opportunity to give feedback.
 
   - Open Innovation Platforms
