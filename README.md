@@ -34,7 +34,9 @@ Since the last Open Gov Plan in 2014, we’ve made significant progress enrichin
   - Code Sharing
   - Small Business Innovation Research/Small Business Technology Transfer
 - Keeping Track: From Then to Now
-We heard from citizens that tracking progress across all the Plans [2010, 2012, 2014 and now 2016] is difficult. To address this, we collected all the activities from in previous Plans and created a matrix view for easy reference.
+
+We heard from citizens that tracking progress across all the Plans [2010, 2012, 2014 and now 2016] is difficult. To address this, we collected all the activities from in previous Plans. When we publish the plan, these two sections will be organized in a matrix format for easy reference, with an update on progress, and whether or not the activity is complete, closed out, or ongoing. At this point, we’ve listed them with the year we introduced the in our Open Gov Plans.
+
 
   - OMB Memo M-16-16
   - Historical and Ongoing Activities included in previous Open Gov Plans
