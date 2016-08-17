@@ -20,6 +20,8 @@ The first two Open Gov Plans cite the following five cross-cutting objectives, w
   5. Institutionalize Open Gov philosophies and practices at NASA.
 
 - What’s New
+Since the last Open Gov Plan in 2014, we’ve made significant progress enriching and enhancing the foundations laid by previous Plans. Though some of these activities listed in this section are not new, we’ve added new capabilities and capacities to continue this good work, as we move forward into the next two years. Here is a top-level look at projects we love. And by the participant response we’ve seen so far, you love them to.  This is your opportunity to give feedback.
+
   - Open Innovation Platforms
     - Citizen Science
     - NASA Solve
@@ -30,6 +32,8 @@ The first two Open Gov Plans cite the following five cross-cutting objectives, w
   - Code Sharing
   - Small Business Innovation Research/Small Business Technology Transfer
 - Keeping Track: From Then to Now
+We heard from citizens that tracking progress across all the Plans [2010, 2012, 2014 and now 2016] is difficult. To address this, we collected all the activities from in previous Plans and created a matrix view for easy reference.
+
   - OMB Memo M-16-16
   - Historical and Ongoing Activities included in previous Open Gov Plans
     - Freedom of Information Act: 2010, 2012, 2014, 2016
