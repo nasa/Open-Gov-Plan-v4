@@ -1,22 +1,24 @@
 #Open Government Plan 2016
 ##September 2016
 
-###Letter from Chief Information Officer
-NASA and Open Government
+###TABLE of CONTENTS
+- Letter from Chief Information Officer
+- NASA and Open Government
 
 NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing in the conduct of how we go about the business of expanding the frontiers of knowledge, advancing understanding of the universe, and serving the American public.
 
 From 2010 to date, NASA’s Open Government Initiative has matured, evolved, and adapted to shifting priorities in leadership from the White House, Office of Management and Budget, and NASA executives. The original tenets have not changed; however, the application of open government principles -- participation, transparency, and openness -- are applied according to priorities of agency leadership.
 
-NASA Organizational Structure
+- NASA Organizational Structure
 ![NASA Organizational Chart](image00.jpg "NASA Org Chart")
+- Cross-cutting Objectives
+The first two Open Gov Plans cite the following five cross-cutting objectives, which still apply:
+  1. Increase Agency transparency and accountability to external stakeholders,
+  2. Enable citizen participation in NASA missions (prizes and challenges, citizen science),                
+  3. Improve internal NASA collaboration and innovation,
+  4. Encourage partnerships that can create economic opportunity, and
+  5. Institutionalize Open Gov philosophies and practices at NASA.
 
-###TABLE of CONTENTS
-
-
-- NASA and Open Government
-  - NASA Organizational Structure
-  - Cross-cutting Objectives
 - What’s New
   - Open Innovation Platforms
     - Citizen Science
