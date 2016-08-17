@@ -1,8 +1,19 @@
 #Open Government Plan 2016
 ##September 2016
+
+###Letter from Chief Information Officer
+NASA and Open Government
+
+NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing in the conduct of how we go about the business of expanding the frontiers of knowledge, advancing understanding of the universe, and serving the American public.
+
+From 2010 to date, NASA’s Open Government Initiative has matured, evolved, and adapted to shifting priorities in leadership from the White House, Office of Management and Budget, and NASA executives. The original tenets have not changed; however, the application of open government principles -- participation, transparency, and openness -- are applied according to priorities of agency leadership.
+
+NASA Organizational Structure
+![NASA Organizational Chart](image00.jpg "NASA Org Chart")
+
 ###TABLE of CONTENTS
 
-- Letter from Chief Information Officer
+
 - NASA and Open Government
   - NASA Organizational Structure
   - Cross-cutting Objectives
