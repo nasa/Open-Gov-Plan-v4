@@ -86,3 +86,5 @@ We heard from citizens that tracking progress across all the Plans [2010, 2012, 
   - NASA Information Architecture and Management: 2014
   - Asteroid Grand Challenge: 2014
 - Conclusion
+
+We believe NASA will continue to lead federal agencies as we experiment with and create innovative frameworks for citizen participation in our journey to explore the universe of knowledge about our existence in the universe. We understand that not every human will touch space...yet, but in the meantime, we will endeavor to provide opportunities for citizens to engage with us in meaningful ways, and continue to provide access to our research, technology, and data to that it can be used to make their lives better.
